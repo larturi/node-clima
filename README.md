@@ -6,7 +6,7 @@ npm install
 ```
 
 
-### Ejemplo
+Ejemplo
 
 ```
 node app -d "Buenos Aires"
