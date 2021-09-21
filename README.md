@@ -1,6 +1,6 @@
-## Aplicacion del clima - Curso Node
+## Aplicacion del clima - Curso Node con [rapidapi](https://rapidapi.com/developer)
 
-Recuerden ejecutar npm install para agregar las librerias
+Ejecutar npm install para agregar las librerias
 
 ### Ejemplo
 
