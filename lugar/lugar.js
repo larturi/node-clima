@@ -11,6 +11,8 @@ const getLugarLatLng = async(dir) => {
 
     const resp = await instance.get();
 
+    console.log(resp.data);
+
     if (resp.data.Results.length === 0) {
         throw new Error(`No hay suficientes resultados para ${dir}`);
     }
