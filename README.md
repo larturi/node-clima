@@ -1,4 +1,4 @@
-## Aplicacion del clima - Curso Node con [rapidapi](https://rapidapi.com/developer)
+## Aplicacion del clima con [rapidapi](https://rapidapi.com/developer)
 
 Install dependences
 ```
